@@ -1,0 +1,6 @@
+{
+  "name": "CoreJSON Enterprise Inspector",
+  "description": "High-density corporate JSON tree viewer, schema validator, and structured data explorer for engineering workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
